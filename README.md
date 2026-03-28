@@ -58,9 +58,3 @@ Vocal Style
 A detailed description of how the vocals should sound — timbre, placement, delivery dynamics, genre character, and three embedded delivery variants (ballad, uptempo, arena). Artist-tagged in the full prompt; scrubbed for music platforms.
 Soundscape
 The instrumental and sonic context — instrumentation, texture, energy level, and how the mix should support the vocal. Fully platform-safe, no artist references.
-
-Requirements
-
-Python 3.x
-tkinter (included in standard Python on Windows)
-pyperclip — install via pip install pyperclip
